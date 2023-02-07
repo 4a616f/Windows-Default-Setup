@@ -1,11 +1,15 @@
 
 ---
 - [Default Setup for Windows 11](#default-setup-for-windows-11)
+  - [Install Chocolatey and Windows Software](#install-chocolatey-and-windows-software)
   - [Privacy and Security Settings](#privacy-and-security-settings)
   - [Browser](#browser)
 
 ---
 # Default Setup for Windows 11
+
+## Install Chocolatey and Windows Software
+
 
 ## Privacy and Security Settings
 * Disable **Background Intelligence Services** and **Delivery Optimization** in **services.msc**
